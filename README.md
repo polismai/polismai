@@ -5,7 +5,7 @@
 <p>Actualmente tengo experiencia en tecnologías como JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize. Soy una persona muy perfeccionista y detallista, comprometida con la calidad y la precisión en todo lo que hago.</p>
 <p>Estoy en la búsqueda activa de oportunidades laborales que me permitan seguir creciendo profesionalmente y contribuir con mi experiencia y entusiasmo a proyectos innovadores. ¡Estoy ansiosa por conectar con profesionales del sector y explorar nuevas oportunidades de colaboración y crecimiento!</p>
 
-<h4>Mi último proyecto integral fue LunchUP, una aplicación web diseñada para gestionar los comedores de los colegios, permitiendo a los padres registrarse y realizar pedidos de menús para sus hijos de manera fácil y segura. [LunchUP](https://lunchuppf.netlify.app/)</h4>
+<h4>Mi último proyecto integral fue LunchUP, una aplicación web diseñada para gestionar los comedores de los colegios, permitiendo a los padres registrarse y realizar pedidos de menús para sus hijos de manera fácil y segura. [Lunch(https://lunchuppf.netlify.app/)</h4>
 
 <h3 align="left">No dudes en contactarme!</h3>
 <p align="left">
